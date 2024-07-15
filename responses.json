@@ -1,0 +1,20 @@
+{
+    "slotmachine": {
+        "win": "🎉 Félicitations ! Vous avez gagné {amount} pièces ! 🎉",
+        "lose": "😢 Dommage, vous avez perdu {amount} pièces. Réessayez ! 😢",
+        "cooldown": "⏳ Vous devez attendre {time} secondes avant de rejouer. ⏳",
+        "invalidBet": "❗ Veuillez placer un pari valide. ❗",
+        "notEnoughCoins": "🚫 Vous n'avez pas assez de pièces pour ce pari. 🚫"
+    },
+    "roulette": {
+        "win": "🎉 Félicitations ! Vous avez gagné {amount} pièces ! 🎉",
+        "lose": "😢 Dommage, vous avez perdu {amount} pièces. Réessayez ! 😢",
+        "cooldown": "⏳ Vous devez attendre {time} secondes avant de rejouer. ⏳",
+        "invalidBet": "❗ Veuillez placer un pari valide et choisir un numéro ou une couleur. ❗",
+        "notEnoughCoins": "🚫 Vous n'avez pas assez de pièces pour ce pari. 🚫"
+    },
+    "daily": {
+        "claimed": "🚫 Vous avez déjà réclamé votre récompense quotidienne. Revenez dans {hours} heures et {minutes} minutes. 🚫",
+        "reward": "🎉 Vous avez reçu {amount} pièces aujourd'hui ! 🎉"
+    }
+}
